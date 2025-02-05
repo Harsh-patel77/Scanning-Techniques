@@ -19,9 +19,6 @@ To scan all ports on a system, ranging from 1 to 65535
 
 
 
-## Combine TCP/UDP Scan 
-
-
 ## Specific Port Scan 
 To scan specific ports like FTP (21), HTTP (80), SMTP (25), and Telnet (23)
 ![Screenshot 2025-01-27 173917](https://github.com/user-attachments/assets/c037e941-4fff-441a-999d-9840cfac8730)
